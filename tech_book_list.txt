@@ -1,0 +1,52 @@
+Tech Book List:
+===============
+
+C:
+===============
+- "The C Programming Language", by Kernighan and Ritchie
+- "C: A Reference Manual", by Samuel Harbison & Guy Steele
+- "C Traps and Pitfalls", by Andrew Koening
+- "Pointers on C", by Kenneth Reek
+- "Expert C Programming", by Peter van der Linden
+
+Linux:
+- "Understanding the Linux Kernel", by Daniel Bovet & Marco Cesati
+- "Linux Device Drivers", by Corbet, Rubini & Kroah-Hartman
+- "Linux Kernel Development", by Robert Love
+- "Embedded Linux Primer", by Christopher Hallinan
+- "Professional Linux Kernel Architecture", by Wolfgang Mauerer
+- "Understanding Linux Network Internals", by Christian Benvenuti
+- "Beginning Linux Programming", by Neil Matthew & Richard Stones
+- "How Linux Works: What Every Superuser Should Know", by Brian Ward
+- "Unix Network Programming Interprocess Communication", by W. Stevens
+- "Advanced Linux Programming", by Mitchell, Oldham & Samuel
+
+C++
+===============
+- "C++ Primer", by Stanley Lippman
+- "The C++ Programming Language", by Bjarne Stroustrup
+- "Effective C++", by Scott Meyers
+- "Effective STL", by Scott Meyers
+
+Algorithms:
+- "Algorithms", by Robert Sedgewick & Kevin Wayne
+- "Introduction to Algorithms", by Cormen, Leiserson, Rivest & Stein
+
+Programming:
+===============
+- "Computer Systems: A Programmer's Perspective", by Bryant O'Hallaron
+- "Pramming Pearls", by Jon Bentley
+- "The Pragmatic Programmer: From Journeyman to Master", by Andrew Hunt
+- "Code Complete", by Steve McConnell
+- "Refactoring: Improving the Design of Existing Code", by Martin Fowler
+- "Design Patterns", by Gamma, Helm, Johnson & Vlissides
+
+SW Engineering:
+===============
+- "The Mythical Man-Month: Essays on Software Engineering", by Frederick Brooks
+- "Peopleware: Productive Projects and Teams", by Tom DeMarco
+- "Rapid Development", by Steve McConnell
+
+XML:
+===============
+- "XML Visual QuickStart Guide", by Kevin Howard Goldberg
