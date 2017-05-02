@@ -10,6 +10,7 @@ C:
 - "Expert C Programming", by Peter van der Linden
 
 Linux:
+===============
 - "Understanding the Linux Kernel", by Daniel Bovet & Marco Cesati
 - "Linux Device Drivers", by Corbet, Rubini & Kroah-Hartman
 - "Linux Kernel Development", by Robert Love
