@@ -30,6 +30,7 @@ C++
 - "Effective STL", by Scott Meyers
 
 Algorithms:
+===============
 - "Algorithms", by Robert Sedgewick & Kevin Wayne
 - "Introduction to Algorithms", by Cormen, Leiserson, Rivest & Stein
 
