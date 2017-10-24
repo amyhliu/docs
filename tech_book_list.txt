@@ -9,7 +9,7 @@ C:
 - "Pointers on C", by Kenneth Reek
 - "Expert C Programming", by Peter van der Linden
 
-Linux:
+Linux/Unix:
 ===============
 - "Understanding the Linux Kernel", by Daniel Bovet & Marco Cesati
 - "Linux Device Drivers", by Corbet, Rubini & Kroah-Hartman
@@ -21,6 +21,7 @@ Linux:
 - "How Linux Works: What Every Superuser Should Know", by Brian Ward
 - "Unix Network Programming Interprocess Communication", by W. Stevens
 - "Advanced Linux Programming", by Mitchell, Oldham & Samuel
+- "Unix Systems for Modern Architecture", by Curt Schimmel
 
 C++
 ===============
